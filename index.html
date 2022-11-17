@@ -3,22 +3,18 @@
 
 <head>
     <title>Baby Python</title>
-</head>
-
-<body>
-
-    <h3>Detecting device size...</h3>
-
     <script type="text/javascript">
         function detectMob() {
             return ((window.innerWidth <= 800) && (window.innerHeight <= 600));
         }
         if (detectMob())
-            console.log('This is a mobile device');
+            window.location.href = "mobile";
         else
-            console.log('This is not a mobile device');
+            window.location.href = "mobile";
     </script>
+</head>
 
+<body>
 </body>
 
 </html>

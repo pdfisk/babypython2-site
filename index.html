@@ -4,13 +4,18 @@
 <head>
     <title>Baby Python</title>
     <script type="text/javascript">
-        function detectMobile() {
-            return ((window.innerWidth <= 500) || (window.innerHeight <= 500));
+        function detectDesktop() {
+            var isDesktop = true;
+            if (!window.innerWidth || window.innerWidth < 500)
+                isDesktop = false;
+            if (!window.innerHeight || window.innerHeight < 500)
+                isDesktop = false;
+            return isDesktop;
         }
-        if (detectMobile())
-            window.location.href = "mobile";
-        else
+        if (detectDesktop())
             window.location.href = "desktop";
+        else
+            window.location.href = "mobile";
     </script>
 </head>
 

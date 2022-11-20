@@ -1,5 +1,6 @@
 self.postMessage({status: 'progress', message: 'starting worker...'});
-// importScripts("https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js");
+importScripts("https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js");
+self.postMessage({status: 'progress', message: 'imported scripts...'});
 
 // async function loadPyodideAndPackages() {
 //     self.pyodide = await loadPyodide();

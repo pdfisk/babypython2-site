@@ -57,6 +57,37 @@
 </head>
 
 <body>
+
+  <script type="module">
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js'
+    import { getAuth, onAuthStateChanged, signInAnonymously, signOut } from 'https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js'
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-analytics.js";
+    import { addDoc, collection, deleteDoc, getDoc, getDocs, getFirestore, query, updateDoc, where } from 'https://www.gstatic.com/firebasejs/9.10.0/firebase-firestore.js';
+    var assignFn = function (data) {
+      return Object.assign({}, data);
+    };
+    globalThis.Firebase = {
+      getAnalytics: getAnalytics,
+      getAuth: getAuth,
+      initializeApp: initializeApp,
+      onAuthStateChanged: onAuthStateChanged,
+      signInAnonymously: signInAnonymously,
+      signOut: signOut
+    };
+    globalThis.FirebaseFirestore = {
+      addDoc: addDoc,
+      assignFn: assignFn,
+      collection: collection,
+      deleteDoc: deleteDoc,
+      getDoc: getDoc,
+      getDocs: getDocs,
+      getFirestore: getFirestore,
+      query: query,
+      updateDoc: updateDoc,
+      where: where
+    };
+  </script>
+
 </body>
 
 </html>

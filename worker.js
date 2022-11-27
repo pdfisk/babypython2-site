@@ -1,5 +1,5 @@
 try {
-    importScripts("https://cdn.jsdelivr.net/pyodide/v0.20.0/full/pyodide.js");
+    importScripts('https://cdn.jsdelivr.net/pyodide/v0.20.0/full/pyodide.js');
 
     async function loadPyodideAndPackages() {
         self.pyodide = await loadPyodide();

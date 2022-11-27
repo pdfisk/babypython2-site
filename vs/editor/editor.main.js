@@ -801,4 +801,4 @@ var moduleExports=(()=>{var k=Object.create;var m=Object.defineProperty;var N=Ob
 return moduleExports;
 });
 
-define("vs/editor/editor.main", ["vs/editor/edcore.main","vs/basic-languages/monaco.contribution","vs/language/css/monaco.contribution","vs/language/html/monaco.contribution","vs/language/json/monaco.contribution","vs/language/typescript/monaco.contribution"], function(api) { return api; });
+define("vs/editor/editor.main", ["vs/editor/edcore.main","vs/basic-languages/monaco.contribution","vs/language/css/monaco.contribution","vs/language/html/monaco.contribution","vs/language/json/monaco.contribution","vs/language/typescript/monaco.contribution"], function(api) { return api; });

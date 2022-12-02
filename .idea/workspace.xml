@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64276e5-b70e-4eec-9afc-6c9e54343857" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/codemirror/addon/edit/matchbrackets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codemirror/lib/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codemirror/lib/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codemirror/mode/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/brython.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/brython.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyodide-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/base/browser/ui/codicons/codicon/codicon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/base/worker/workerMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/csharp/csharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/css/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/html/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/java/java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/javascript/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/markdown/markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/mysql/mysql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/pgsql/pgsql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/php/php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/powershell/powershell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/python/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/ruby/ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/scss/scss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/smalltalk/smalltalk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/sql/sql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/st/st.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/vb/vb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/xml/xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/basic-languages/yaml/yaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/editor/editor.main.nls.zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/css/cssMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/css/cssWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/html/htmlMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/html/htmlWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/json/jsonMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/json/jsonWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/typescript/tsMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/language/typescript/tsWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vs/loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IMmvur8DGjJcCN3NhOMqQJ9pRp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/peter/source/repos/apps/baby_python2/site",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64276e5-b70e-4eec-9afc-6c9e54343857" name="Changes" comment="" />
+      <created>1670000061390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670000061390</updated>
+      <workItem from="1670000062689" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
